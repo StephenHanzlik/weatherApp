@@ -1,16 +1,15 @@
 .widget1 {
   position: relative;
   border-radius: 6px;
-  background-color: #eeeeee;
-  padding: 60px;
-  width: 100px;
+  background-color: white;
+  padding: 80px;
+  width: 300px;
   font-size: 18px;
   font-weight: 200;
+}
 
   h1 {
     line-height: 1;
     letter-spacing: -1px;
     font-size: 60px;
   }
-}
-
